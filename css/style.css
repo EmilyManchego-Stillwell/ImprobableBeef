@@ -1,0 +1,37 @@
+body {
+    background-color:rgb(62, 61, 69);
+}
+
+div.jumbotron {
+    background-color:rgb(176, 255, 255);
+    text-align: center
+}
+
+div.well {
+    background-color:lightgoldenrodyellow;
+}
+
+h1 {
+    color:rgb(62, 61, 69);
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    color:rgb(62, 61, 69);
+    font-style: italic;
+}
+
+h3.borderh3{
+    border:1px solid rgb(62, 61, 69);
+    margin: auto;
+    background-color: azure;
+}
+
+h4.borderh4 {
+    border:2px solid rgb(62, 61, 69);
+    margin:auto;
+    background-color:azure;
+    width:25%;
+}
+
